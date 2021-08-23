@@ -1,1 +1,1 @@
-# Dete-o-de-placas-de-Tr-nsito
+# Deteção de placas de Trânsito
